@@ -37,7 +37,7 @@
     </section>
     <section id="contacts">
         <h2>Контакти</h2>
-        <p>Email: example@bezruki.ua | Телефон: +380 123 456 789</p>
+        <p>Email: vovayrk@gmail.com| Телефон: +380 67 807 2878</p>
     </section>
     <footer>
         &copy; 2025 Село Безруки | Усі права захищені
